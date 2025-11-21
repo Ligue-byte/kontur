@@ -1,0 +1,33 @@
+<prompt> 
+<context>  
+Представь, что ты собираешь данные для представителей крупного бизнеса, в том числе государственного, квазигосударственного, финансового сектора в казахстане.
+Это  потенциальные клиенты твоего сервиса Диадок. Планируется создать совместное предприятие в Казахстане и локализовать Диадок.
+Твоя задача сравнить Диадок с основным конкурентом в Казахстане - Докуметологом. 
+</context>  
+<goal>  
+Prepare a comparative analysis of Kontur Диадок (Russia) and Документолог (KZ).  
+</goal>  
+
+<instructions>
+- Compare software by functionality. 
+- Compare which features are better developed, less developed, or equally developed. 
+- Also compare services by configured integrations.
+- Compare software product modules.
+- Compare  product apps.
+- Compare the capabilities of AI and its development in the products.
+- Compare service  tariffs.
+- Use the attached files в чате and other sources that you consider valid.  
+- prepare a report in Russian
+- Важно показать паритетные стороны, подчеркнуть сильные Диадока и сгладить слабые, где это возможно.
+ </instructions> 
+
+<dod>
+- сравнительное описание возможностей текстом. Рекомендуется объединить их в блоки на основе задач или выгод для клиента. 
+- краткая таблица для быстрого принятия решения клиентом со столбцами: возможность, Диадок, Документолог, комментарий. В комменариях сделать краткий вывод 1-2 предложения о позиции Диадока в сравнении с Документологом. 
+</dod>
+
+<links>
+https://www.diadoc.ru/
+https://documentolog.com/
+</links>
+</prompt>  
