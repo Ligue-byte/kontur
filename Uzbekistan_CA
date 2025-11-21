@@ -1,0 +1,65 @@
+<prompt>
+
+## 🏢 Context
+<context>
+  <![CDATA[
+  Company: Kontur is a large corporation with 15,000 employees, market leader in SaaS products for businesses.
+  Specialization: electronic document management and reporting, #1 in the region. It has its own accredited certification center.
+  Client base: 3 million business clients.
+  Task: expand from the Russian market into the Uzbekistan market 
+  ]]>
+</context>
+
+<goal>  
+  <![CDATA[  
+  Проанализировать возможность выхода продукта Контур.Удостоверяющий центр https://ca.kontur.ru/ из России в Uzbekistan.  
+  ]]>  
+</goal>  
+
+## 📌 Research Requirements  
+<requirements>  
+  <![CDATA[  
+  - Consider: government regulation, demand, digital literacy, technology development, competition, infrastructure, investments.  
+  - The research must be maximally evidence-based.  
+  - All conclusions must be based only on data.  
+  - If open data is not found, write: “данные не нашли, в результате не уверен”.  
+  - Each conclusion must include links to data sources.  
+  - The research and final report must be written entirely in Russian language no more than 15 pages.  
+  ]]>  
+</requirements>  
+
+## 🔎 Niches to Analyze  
+<niches>  
+  <![CDATA[  
+Проанализируй возможности для отдельных сегментов в стране:
+- Крупные государственные компании и компании с государственным участием
+- Крупный бизнес
+- Средний бизнес
+- Малый бизнес
+- микробизнес и физические лица, самозанятые
+  ]]>  
+</niches> 
+
+## 📦 Deliverables  
+<artifacts>  
+  <![CDATA[  
+  - Niche map + assessment of market development potential scoring (0–100) across 5 blocks  
+  - TAM/SAM/SOM market map with figures calculated and provided in units and in money (legal entities, SMEs, segmented by industry and region)  
+  -  Target audience segments
+  - JTBD maps for each key niche  
+  - Competitor teardown (functions, signatures, integrations, APIs, pricing, SLA, 
+market share) . Competitor matrix (direct, indirect, alternatives). Competitor map includes at least 4 players 
+  - Regulatory map (requirements, types of electronic signatures, constraints)  
+  - Карта партнеров, которые могут помочь с выходом на рынок Узбекистана: имеют большую клиентскую базу b2b, компетенции IT, являются интегратором или дистрибютером с развитой сетью. 
+  - C-level presentation with findings and entry scenarios.   
+  ]]>  
+</artifacts>  
+
+<methodology> 
+1. Use data for the last 2-5 years for your analysis. 
+2. Use data for 2025 or 2024 to calculate capacity.
+3. Use information from bills that came into force recently or in 2026. Analyze how they might impact the electronic signature and the entry of Kontur CA into the Uzbek market.
+4. Compare competitors' tarifs and pricing plans in three ways: cost per signature, signature types, and signature costs for different segments and roles. Analyze whether the KCR rate is available.
+5. Use official sources, statistical data, tax data, competitor websites, EDI operators, and other sources you find that can be considered reliable.
+</methodology> 
+</prompt>
